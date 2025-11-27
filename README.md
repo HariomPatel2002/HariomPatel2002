@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/HariomPatel2002/](https://github.com/HariomPatel2002/)
 
-- 💬 Ask me about **react ,node.js ,express.js, mongodb, mysql**
+- 💬 Ask me about **react, Angular ,node.js ,express.js, mongodb, mysql, Docker**
 
 - 📫 How to reach me **hariom70002582@gmail.com**
 
