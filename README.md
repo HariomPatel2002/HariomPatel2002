@@ -174,9 +174,9 @@ A full-stack career platform featuring:
 </p>
 
 <p align="center">
-  <a href="mailto:patelhariom700025@gmail.com">
+<a href="mailto:patelhariom700025@gmail.com">
     <img src="https://img.shields.io/badge/Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</a>
 </p>
 
 <p align="center">
