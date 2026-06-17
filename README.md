@@ -24,20 +24,20 @@
 
 ```javascript
 const hariom = {
-  role:       "Full Stack Engineer",
-  location:   "Indore, India 🇮🇳",
-  experience: "1+ year",
-  stack:      ["React.js", "Node.js", "Express.js", "MongoDB"],
+  role:        "Full Stack Engineer",
+  location:    "Indore, India 🇮🇳",
+  experience:  "1.5 years",
+  stack:       ["React.js", "Angular", "TypeScript", "Node.js", "Express.js", "MongoDB", "Sequelize ORM"],
   currentWork: "Building cloud-native microservices @ Ideal IT Techno",
-  learning:   ["Next.js", "AWS", "System Design"],
-  openTo:     ["Collaborations", "Freelance Projects", "Open Source"],
-  contact:    "patelhariom700025@gmail.com",
+  learning:    ["Next.js", "AWS", "System Design"],
+  openTo:      ["Collaborations", "Freelance Projects", "Open Source"],
+  contact:     "patelhariom700025@gmail.com",
 };
 ```
 
 - 🔭 Currently building **cloud-native microservices** with Serverless Framework & AWS Lambda
 - 🌱 Deepening skills in **Next.js, System Design & AWS architecture**
-- 💼 1+ year of professional experience across **MERN stack & REST API development**
+- 💼 1.5+ year of professional experience across **MERN stack & REST API development**
 - 🔐 Experienced with **Keycloak, JWT, Stripe, PayPal, SendGrid** integrations
 - 🧠 Passionate about clean code, scalable architecture, and developer experience
 - ⚡ Fun fact: I can debug a backend issue faster than I can brew coffee ☕
@@ -91,7 +91,7 @@ const hariom = {
 
 ## 💼 Work Experience
 
-### 🏢 Full Stack Engineer — Ideal IT Techno, Indore *(Apr 2024 – Present)*
+### 🏢 Full Stack Engineer — Ideal IT Techno, Indore *(Apr 2026 – Present)*
 - Architected **cloud-native microservices** using Serverless Framework & AWS Lambda
 - Managed relational databases with **Sequelize ORM** — migrations, seeders, complex associations
 - Built secure **RESTful APIs** with Keycloak auth, SendGrid notifications, Stripe & PayPal payments
