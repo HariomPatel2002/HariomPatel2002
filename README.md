@@ -163,10 +163,10 @@ A full-stack career platform featuring:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hariompatel2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hariompatel2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
