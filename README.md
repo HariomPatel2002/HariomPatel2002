@@ -27,7 +27,7 @@ const hariom = {
   role:        "Full Stack Engineer",
   location:    "Indore, India 🇮🇳",
   experience:  "1.5 years",
-  stack:       ["React.js", "Angular", "TypeScript", "Node.js", "Express.js", "MongoDB", "Sequelize ORM"],
+  stack:       ["React.js", "Angular", "TypeScript", "Node.js", "Express.js", "FastAPI", "MongoDB", "Sequelize ORM"],
   currentWork: "Building cloud-native microservices @Ideal IT Techno",
   learning:    ["Next.js", "AWS", "System Design"],
   openTo:      ["Collaborations", "Freelance Projects", "Open Source"],
@@ -61,6 +61,7 @@ const hariom = {
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Languages
@@ -91,6 +92,7 @@ const hariom = {
 ### Tools & Integrations
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
@@ -99,7 +101,7 @@ const hariom = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0047B3?style=for-the-badge&logo=bitbucket&logoColor=white))
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0047B3?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
 
@@ -162,12 +164,12 @@ A full-stack career platform featuring:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariompatel2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariompatel2002&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=hariompatel2002&cc=000&tc=6366F1&ic=fff&bc=000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariompatel2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariompatel2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=hariompatel2002&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
 </p>
 
 ---
@@ -175,7 +177,7 @@ A full-stack career platform featuring:
 ## 🏆 GitHub Trophies & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hariompatel2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-trophies.vercel.app/?username=hariompatel2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
 </p>
 
 ---
@@ -188,9 +190,9 @@ A full-stack career platform featuring:
 </p>
 
 <p align="center">
-<a href="mailto:patelhariom700025@gmail.com">
+  <a href="mailto:patelhariom700025@gmail.com">
     <img src="https://img.shields.io/badge/Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  </a>
 </p>
 
 <p align="center">
