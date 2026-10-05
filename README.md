@@ -26,7 +26,7 @@
 const hariom = {
   role:        "Full Stack Engineer",
   location:    "Indore, India 🇮🇳",
-  experience:  "1.5 years",
+  experience:  "1.8 years",
   stack:       ["React.js", "Angular", "TypeScript", "Node.js", "Express.js", "FastAPI", "MongoDB", "Sequelize ORM"],
   currentWork: "Building cloud-native microservices @Ideal IT Techno",
   learning:    ["Next.js", "AWS", "System Design"],
